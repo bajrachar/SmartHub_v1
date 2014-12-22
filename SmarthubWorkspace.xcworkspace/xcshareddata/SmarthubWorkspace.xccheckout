@@ -12,22 +12,34 @@
 	<dict>
 		<key>34E3CFDE6533A2077B2B926B2476C6F6A6537D9B</key>
 		<string>https://bitbucket.org/wiseyak/smarthubapp.git</string>
+		<key>F4F3388EE1C2B416480EE35DFC5610F7B9BD9B9E</key>
+		<string>github.com:bajrachar/SmartHub_v1.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SmarthubWorkspace.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>34E3CFDE6533A2077B2B926B2476C6F6A6537D9B</key>
+		<string>../../smarthubappnew</string>
+		<key>F4F3388EE1C2B416480EE35DFC5610F7B9BD9B9E</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/wiseyak/smarthubapp.git</string>
+	<string>github.com:bajrachar/SmartHub_v1.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>34E3CFDE6533A2077B2B926B2476C6F6A6537D9B</string>
+	<string>F4F3388EE1C2B416480EE35DFC5610F7B9BD9B9E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4F3388EE1C2B416480EE35DFC5610F7B9BD9B9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SmartHub_v1.git</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

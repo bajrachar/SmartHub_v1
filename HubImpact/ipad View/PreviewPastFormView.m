@@ -228,7 +228,7 @@
     
     // NSString *URL=[NSString stringWithFormat:@"http://182.93.95.189/auth.SmartHub/api/search?CompanyName=%@&PropertyAddress=%@PreparedBy=%@FromDate=%@ToDate=%@&page=1&perpage=100&$orderby=CreatedDate&typeName=%@",company,propertyAddress,prepairedBy,fromDate,toDate,form];
     
-    NSString *URL=[NSString stringWithFormat:@"http://182.93.95.189/auth.Smarthub/api/search?keyword=%@&page=1&perpage=100&orderby=CreatedDate&PropertyAddress=%@&PreparedBy=%@&FromDate=%@&ToDate=%@", keyword, propertyAddress,prepairedBy,fromDate,toDate];
+    NSString *URL=[NSString stringWithFormat:@"http://182.93.95.189/auth.Smarthub/api/search?keyword=%@&page=1&perpage=100&sortby=desc_created_date&FromDate=%@&ToDate=%@", keyword, fromDate,toDate];
 //
     
    // NSString *URL=[NSString stringWithFormat:@"http://182.93.95.189/auth.Smarthub/api/search?keyword=%@",keyword];

@@ -1941,7 +1941,7 @@
     NSData* data = [jsonString dataUsingEncoding:NSUTF8StringEncoding];
 
     
-    NSString *URL=[NSString stringWithFormat:@"http://182.93.95.189/SmartHub/api/property/"];
+    NSString *URL=[NSString stringWithFormat:@"http://182.93.95.189/auth.SmartHub/api/property/"];
     
     NSString *fixedURL = [URL
                           stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
